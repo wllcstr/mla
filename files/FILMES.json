@@ -1,0 +1,66 @@
+[
+  {
+    "nome": "Harry Potter e a Pedra Filosofal",
+    "ano": 2001,
+    "diretor": "Chris Columbus",
+    "genero": "Aventura",
+	"desc" : "Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos",
+	"poster": "https://static.wikia.nocookie.net/harrypotter/images/9/9c/Capa_Harry_Potter_e_a_Pedra_Filosofal_%28filme%29.jpg/revision/latest/top-crop/width/360/height/450?cb=20130101153136&path-prefix=pt-br"
+  },
+  {
+    "nome": "Sem Limites",
+    "ano": 2011,
+    "diretor": "Neil Burger",
+    "genero": "Ação",
+	"desc" : "Encarando o desemprego e a rejeição de sua namorada, o escritor Eddie Morra tem certeza que não tem mais futuro. Mas tudo muda quando um velho amigo lhe dá uma droga que melhora as habilidades mentais.",
+	"poster" : "https://media.fstatic.com/SEh31z6FBK_Lc6Rx_H-ecuPkqLI=/290x478/smart/media/movies/covers/2011/03/29bf70ae9510f4f531d20d09dd159c05.jpg"
+  },
+  {
+    "nome": "Guardiões da Galáxia",
+    "ano": 2014,
+    "diretor": "James Gunn",
+    "genero": "Ação",
+	"desc" : "O aventureiro do espaço Peter Quill torna-se presa de caçadores de recompensas depois que rouba a esfera de um vilão traiçoeiro, Ronan. Para escapar do perigo, ele faz uma aliança com um grupo de quatro extraterrestres.",
+	"poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1P_hV6E3_OlEq4MdFMQje5SyBUkAH0JKasP_iVJG4HMT69xn2"
+  },
+  {
+    "nome": "Assassin's Creed",
+    "ano": 2016,
+    "diretor": "Justin Kurzel",
+    "genero": "Ação",
+	"desc" : "Cal Lynch revive as aventuras do guerreiro Aguilar, seu ancestral espanhol do século XV. Dotado de novos conhecimentos e incríveis habilidades, ele volta aos dias de hoje pronto para enfrentar a poderosa organização dos Templários.",
+	"poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw17kZheMBS37KECDkmOlZ38XLtdmBIsBmjeKxVlhWpzT_tC43"
+  },
+  {
+    "nome": "Prenda-Me se For Capaz",
+    "ano": 2002,
+    "diretor": "Steven Spielberg",
+    "genero": "Drama",
+	"desc" : "Frank Abagnale Jr. já trabalhou como médico, advogado e copiloto, tudo isso antes de completar 18 anos. Mestre na arte do disfarce, ele aproveita suas habilidades para viver a vida como quer e praticar golpes milionários...",
+	"poster": "https://cdn.tlc-massive.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27178471.png%27&ImageUrl=%27178471.png%27&EntityType=%27Item%27&EntityId=%279506%27&device=web_browser&subscriptions=Anonymous&Width=360&Height=540"
+  },
+  {
+    "nome": "Família do Bagulho",
+    "ano": 2013,
+    "diretor": "Rawson Marshall Thurber",
+    "genero": "Comédia",
+	"desc" : "Um traficante é forçado por seu chefe a ir ao México pegar uma carga de maconha. A fim de melhorar suas chances de passar pela fronteira, David pede a uma stripper e dois adolescentes locais para acompanhá-lo e fingir que são uma família em férias",
+	"poster": "https://http2.mlstatic.com/D_NQ_NP_968864-MLB25629409397_052017-O.jpg"
+  },
+  {
+    "nome": "Constantine",
+    "ano": 2005,
+    "diretor": "Francis Lawrence",
+    "genero": "Drama",
+	"desc" : "O solitário Constantine tenta garantir seu lugar no paraíso enviando demônios de volta ao inferno, mas seu destino está ligado ao de Angela, uma policial que investiga o suposto suicídio de sua irmã gêmea.",
+	"poster": "https://br.web.img2.acsta.net/pictures/210/163/21016319_20130627174102758.jpg"
+  },
+  {
+    "nome": "Kung Fu Panda",
+    "ano": 2008,
+    "diretor": "Mark Osborne, John Stevenson",
+    "genero": "Animação",
+	"desc" : "Po é um panda que trabalha na loja de macarrão da sua família e sonha em transformar-se em um mestre de kung fu. ",
+	"poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/7/76/Kungfupanda.jpg/200px-Kungfupanda.jpg"
+  }
+]
